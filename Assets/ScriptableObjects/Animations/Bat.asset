@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a731fc562a09c44d801906d35297f63, type: 3}
+  m_Name: Bat
+  m_EditorClassIdentifier: 
+  anim:
+  - {fileID: 1037696196, guid: 5b389f862db709c478c701278de2f254, type: 3}
+  - {fileID: -936635870, guid: 5b389f862db709c478c701278de2f254, type: 3}
+  - {fileID: -734737520, guid: 5b389f862db709c478c701278de2f254, type: 3}
+  - {fileID: -936635870, guid: 5b389f862db709c478c701278de2f254, type: 3}
+  animName: Bat
+  animLength: 1.1
+  loop: 1

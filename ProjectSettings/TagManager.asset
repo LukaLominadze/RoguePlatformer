@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Melee
+  - Ranged
+  - Throwable
+  - WeaponHolder
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3270969265
+    locked: 0
+  - name: AccessoriesBg
+    uniqueID: 2217589675
+    locked: 0
+  - name: Entity
+    uniqueID: 2417121137
+    locked: 0
+  - name: Player
+    uniqueID: 2735571225
+    locked: 0
+  - name: AccessoriesFg
+    uniqueID: 2169269337
+    locked: 0
+  - name: Weapon
+    uniqueID: 1078751663
+    locked: 0
+  - name: Ammo
+    uniqueID: 2771333001
+    locked: 0

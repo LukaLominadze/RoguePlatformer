@@ -1,0 +1,42 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level_1_0.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Level_1_0.tmx": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 181.5,
+                "y": 94.5
+            }
+        },
+        "World1.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/fguru/RoguePlatformer/Assets/Sprites/Tilesets",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 162,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "World1.tsx",
+        "Level_1_0.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "World1.tsx",
+        "Level_1_0.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
